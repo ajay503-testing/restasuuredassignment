@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9693" started-at="2021-10-26T05:25:34Z" finished-at="2021-10-26T05:25:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9693" started-at="2021-10-26T05:25:34Z" finished-at="2021-10-26T05:25:44Z">
+      <class name="cm.qa.RestAssignment.TC_003">
+        <test-method status="PASS" signature="getToken()[pri:0, instance:cm.qa.RestAssignment.TC_003@7907ec20]" name="getToken" is-config="true" duration-ms="6936" started-at="2021-10-26T10:55:34Z" finished-at="2021-10-26T10:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getToken -->
+        <test-method status="PASS" signature="adminLogin()[pri:0, instance:cm.qa.RestAssignment.TC_003@7907ec20]" name="adminLogin" is-config="true" duration-ms="899" started-at="2021-10-26T10:55:41Z" finished-at="2021-10-26T10:55:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminLogin -->
+        <test-method status="PASS" signature="createNewUser()[pri:0, instance:cm.qa.RestAssignment.TC_003@7907ec20]" name="createNewUser" duration-ms="1098" started-at="2021-10-26T10:55:42Z" finished-at="2021-10-26T10:55:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:cm.qa.RestAssignment.TC_003@7907ec20]" name="logOut" is-config="true" duration-ms="731" started-at="2021-10-26T10:55:43Z" finished-at="2021-10-26T10:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+      </class> <!-- cm.qa.RestAssignment.TC_003 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
